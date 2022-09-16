@@ -1,0 +1,9 @@
+C:\Users\yesika\Desktop\F. DE PROGRAMACION\CICLO 3\EJERCICIOS CICLO 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospiEnCasa.App.Dominio.deps.json
+C:\Users\yesika\Desktop\F. DE PROGRAMACION\CICLO 3\EJERCICIOS CICLO 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospiEnCasa.App.Dominio.dll
+C:\Users\yesika\Desktop\F. DE PROGRAMACION\CICLO 3\EJERCICIOS CICLO 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospiEnCasa.App.Dominio.pdb
+C:\Users\yesika\Desktop\F. DE PROGRAMACION\CICLO 3\EJERCICIOS CICLO 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.csprojAssemblyReference.cache
+C:\Users\yesika\Desktop\F. DE PROGRAMACION\CICLO 3\EJERCICIOS CICLO 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\yesika\Desktop\F. DE PROGRAMACION\CICLO 3\EJERCICIOS CICLO 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.AssemblyInfo.cs
+C:\Users\yesika\Desktop\F. DE PROGRAMACION\CICLO 3\EJERCICIOS CICLO 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\yesika\Desktop\F. DE PROGRAMACION\CICLO 3\EJERCICIOS CICLO 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.dll
+C:\Users\yesika\Desktop\F. DE PROGRAMACION\CICLO 3\EJERCICIOS CICLO 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.pdb
