@@ -5797,19 +5797,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yesika\\.nuget\\packages\\": {}
+    "C:\\Users\\MILE\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yesika\\Desktop\\F. DE PROGRAMACION\\CICLO 3\\EJERCICIOS CICLO 3\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Consola\\HospiEnCasa.App.Consola.csproj",
+      "projectUniqueName": "C:\\Users\\MILE\\Documents\\MILEYVI\\U. CALDAS\\FUNDA. PROGRAMACION\\CICLO 3\\C#\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Consola\\HospiEnCasa.App.Consola.csproj",
       "projectName": "HospiEnCasa.App.Consola",
-      "projectPath": "C:\\Users\\yesika\\Desktop\\F. DE PROGRAMACION\\CICLO 3\\EJERCICIOS CICLO 3\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Consola\\HospiEnCasa.App.Consola.csproj",
-      "packagesPath": "C:\\Users\\yesika\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yesika\\Desktop\\F. DE PROGRAMACION\\CICLO 3\\EJERCICIOS CICLO 3\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Consola\\obj\\",
+      "projectPath": "C:\\Users\\MILE\\Documents\\MILEYVI\\U. CALDAS\\FUNDA. PROGRAMACION\\CICLO 3\\C#\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Consola\\HospiEnCasa.App.Consola.csproj",
+      "packagesPath": "C:\\Users\\MILE\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MILE\\Documents\\MILEYVI\\U. CALDAS\\FUNDA. PROGRAMACION\\CICLO 3\\C#\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\yesika\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\MILE\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5820,11 +5820,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\yesika\\Desktop\\F. DE PROGRAMACION\\CICLO 3\\EJERCICIOS CICLO 3\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\yesika\\Desktop\\F. DE PROGRAMACION\\CICLO 3\\EJERCICIOS CICLO 3\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj"
+            "C:\\Users\\MILE\\Documents\\MILEYVI\\U. CALDAS\\FUNDA. PROGRAMACION\\CICLO 3\\C#\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\MILE\\Documents\\MILEYVI\\U. CALDAS\\FUNDA. PROGRAMACION\\CICLO 3\\C#\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj"
             },
-            "C:\\Users\\yesika\\Desktop\\F. DE PROGRAMACION\\CICLO 3\\EJERCICIOS CICLO 3\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\yesika\\Desktop\\F. DE PROGRAMACION\\CICLO 3\\EJERCICIOS CICLO 3\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj"
+            "C:\\Users\\MILE\\Documents\\MILEYVI\\U. CALDAS\\FUNDA. PROGRAMACION\\CICLO 3\\C#\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\MILE\\Documents\\MILEYVI\\U. CALDAS\\FUNDA. PROGRAMACION\\CICLO 3\\C#\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj"
             }
           }
         }

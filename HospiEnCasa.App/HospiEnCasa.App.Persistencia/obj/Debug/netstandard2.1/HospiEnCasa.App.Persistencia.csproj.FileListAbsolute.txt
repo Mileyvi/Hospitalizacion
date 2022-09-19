@@ -10,3 +10,15 @@ C:\Users\yesika\Desktop\F. DE PROGRAMACION\CICLO 3\EJERCICIOS CICLO 3\Hospitaliz
 C:\Users\yesika\Desktop\F. DE PROGRAMACION\CICLO 3\EJERCICIOS CICLO 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csproj.CopyComplete
 C:\Users\yesika\Desktop\F. DE PROGRAMACION\CICLO 3\EJERCICIOS CICLO 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.dll
 C:\Users\yesika\Desktop\F. DE PROGRAMACION\CICLO 3\EJERCICIOS CICLO 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.pdb
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.deps.json
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.pdb
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Dominio.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Dominio.pdb
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.AssemblyInfo.cs
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csproj.CopyComplete
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.pdb
